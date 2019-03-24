@@ -1,4 +1,4 @@
-#PROYECTO REALIZADO POR PROFESOR DANIEL CARRANZA ITR - 2019
+# PROYECTO REALIZADO POR PROFESOR DANIEL CARRANZA ITR - 2019
 Esta demo ha sido desarrollada con las siguientes herramientas:
 - XAMPP v5.6.15 x32
 - Materialize v1.0.0
